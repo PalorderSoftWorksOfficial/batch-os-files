@@ -51,10 +51,10 @@ cls
 echo SYSTEM OS: NEONOS
 echo -----------------
 echo -----------------
-echo GRAPHICS CARD: NIVIDIA RTX
+echo GRAPHICS CARD: NIVIDIA RTX 5090
 echo -----------------
 echo -----------------
-echo RAM: G.Skill Trident Z5 RGB 6000MHz DDR5
+echo RAM: G.Skill Trident Z5 RGB 6000MT/s DDR5
 echo -----------------
 echo -----------------
 echo SYSTEM VERSION: NEON31.5
@@ -71,4 +71,5 @@ if %input% == 9 goto homeScreen
 cls
 echo Powering Off...
 color 4a
+
 pause
